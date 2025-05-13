@@ -1,7 +1,13 @@
 title: Harshul Shah
-#logo: /1665172205413.jpg
-#description: text under  
-#show_downloads: true
+description: Data Scientist | Sports Analyst | Python | ML | FC Dallas Intern
+url: "https://harshul27.github.io"
+author:
+  name: Harshul Shah
+  email: harshul2705@gmail.com
+github_username: harshul27
+linkedin_username: harshulshah27
+# SEO
+keywords: Harshul Shah, soccer analytics, data science, UT Dallas, FC Dallas, Python, ML, SQL
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
